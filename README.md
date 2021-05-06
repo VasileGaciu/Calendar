@@ -1,4 +1,5 @@
 Team project 
+
 The calendar is an app that is used to organize activities.
 The purpose of the app is to organize your daily, weekly, or monthly activities.
 
