@@ -3,7 +3,7 @@ Team project
 The calendar is an app that is used to organize activities.
 The purpose of the app is to organize your daily, weekly, or monthly activities.
 
-Aplication main flow setDate, AddEvent, viewEvent
+Aplication main flow 
 
 Users can interact very easily whit the calendar interface because the menu is easy to access and intuitive. User can open a File menu which is located on
  the top left side of the frame opens three options which set date, add the event and view the event.
