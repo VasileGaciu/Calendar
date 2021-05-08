@@ -10,6 +10,6 @@ Users can interact very easily whit the calendar interface because the menu is e
 
  The mainframe panel has three sections :
  
- 1) In the upper part of the frame you can find the clock whit date and time. 
+ 1) In the upper part of the frame you can find the clock with date and time. 
  2) the middle part of the frame is dedicated to the calendar which contains the month and the year and it displays the days of the week and days of the month in chronological order.
  3) the bottom part displays a panel where you can see your events for the current day.
